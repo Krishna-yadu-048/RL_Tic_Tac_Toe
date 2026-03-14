@@ -20,7 +20,6 @@ A reinforcement learning agent that teaches itself to play Tic-Tac-Toe from scra
 - [What I Learned](#-what-i-learned)
 - [Future Improvements](#-future-improvements)
 - [Tech Stack](#-tech-stack)
-- [License](#-license)
 
 ---
 
